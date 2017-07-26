@@ -13,7 +13,7 @@ FORMAT = pyaudio.paInt16
 CHANNELS = 1
 RATE = 16000
 RECORD_SECONDS = 1
-
+n_dim=60
 n_hidden_units_one = 280 
 n_hidden_units_two = 300
 sd = 1 / np.sqrt(n_dim)

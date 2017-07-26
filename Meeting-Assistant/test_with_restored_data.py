@@ -59,7 +59,7 @@ y_pred=y_pred+1
 
 print "True labels:  ", y_true
 print "Prediction:   ", y_pred
-y_pred = sess.run(y_,feed_dict={X: features_test ,Y:labels_test}
+y_pred = sess.run(y_,feed_dict={X: features_test ,Y:labels_test})
 print "Accuracy:     ", y_pred
 
 

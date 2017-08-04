@@ -19,7 +19,7 @@ n_hidden_units_two = 300
 sd = 1 / np.sqrt(n_dim)
 learning_rate = 0.00001
 batch_size=290
-n_classes = 6
+n_classes = 8
 
 def train_model_w_new_data():
 	

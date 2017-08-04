@@ -13,8 +13,8 @@ n_dim =  60
 n_hidden_units_one = 280 
 n_hidden_units_two = 300
 sd = 1 / np.sqrt(n_dim)
-learning_rate = 0.001
-n_classes=6
+learning_rate = 0.0001
+n_classes=8
 
 #X is the input array, contaning mfccs data
 X = tf.placeholder(tf.float32,[None,n_dim])

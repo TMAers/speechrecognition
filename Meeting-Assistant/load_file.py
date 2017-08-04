@@ -11,7 +11,6 @@ def extract_feature(file_name):
 	X, sample_rate = librosa.load(file_name)
     	#stft = np.abs(librosa.stft(X))
     	mfccs = np.mean(librosa.feature.mfcc(y=X, sr=sample_rate, n_mfcc=60).T,axis=0)
-	print mfccs
     	return mfccs
 #Read data
 #Return two values, first value is array of data's features, second value is array of labels
@@ -26,7 +25,6 @@ def get_audio_features(parent_dir,sub_dir,file_ext="*.wav"):
             	ext_features = np.hstack([mfccs])
             	features = np.vstack([features,ext_features])
             	labels = np.append(labels, (fn.split('_')[0]).split("/")[2])
-	print labels
     	return np.array(features), np.array(labels, dtype = np.int)
 	
 #Convert array of labels to one-hot vector

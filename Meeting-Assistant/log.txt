@@ -1,0 +1,68 @@
+[['./record/record-10.wav', 10]]
+
+10:   181####################
+
+[['./record/record-10.wav', 10], ['./record/record-11.wav', 11]]
+
+11:   242####################
+
+[['./record/record-10.wav', 10], ['./record/record-11.wav', 11], ['./record/record-12.wav', 12]]
+
+12:   161####################
+
+[['./record/record-10.wav', 10], ['./record/record-11.wav', 11], ['./record/record-12.wav', 12], ['./record/record-13.wav', 13]]
+
+13:   202####################
+
+[['./record/record-3.wav', 3]]
+
+3:   356####################
+
+[['./record/record-5.wav', 5]]
+
+5:   124####################
+
+[['./record/record-7.wav', 7]]
+
+7:   295####################
+
+[['./record/record-11.wav', 11]]
+
+11:   265####################
+
+[['./record/record-15.wav', 15]]
+
+15:   122####################
+
+[['./record/record-17.wav', 17]]
+
+17:   198####################
+
+[['./record/record-21.wav', 21]]
+
+21:   227####################
+
+[['./record/record-21.wav', 21], ['./record/record-22.wav', 22]]
+
+22:   154####################
+
+[['./record/record-21.wav', 21], ['./record/record-22.wav', 22], ['./record/record-23.wav', 23]]
+
+23:   244####################
+
+[['./record/record-21.wav', 21], ['./record/record-22.wav', 22], ['./record/record-23.wav', 23], ['./record/record-24.wav', 24]]
+
+24:   193####################
+
+[['./record/record-21.wav', 21], ['./record/record-22.wav', 22], ['./record/record-23.wav', 23], ['./record/record-24.wav', 24], ['./record/record-25.wav', 25]]
+
+25:   138####################
+
+[['./record/record-21.wav', 21], ['./record/record-22.wav', 22], ['./record/record-23.wav', 23], ['./record/record-24.wav', 24], ['./record/record-25.wav', 25], ['./record/record-26.wav', 26]]
+
+26:   167####################
+
+[['./record/record-32.wav', 32]]
+
+32:   117####################
+
